@@ -1,6 +1,6 @@
 public class ReverseString {
     public static void main(String[] args) {
-        String input = "Hello, World!";
+        String input = "HelloWorld!";
         String reversed = reverse(input);
         System.out.println("Reversed string: " + reversed);
     }
